@@ -266,12 +266,12 @@ ALTER TABLE ONLY public.star ALTER COLUMN star_id SET DEFAULT nextval('public.st
 -- Data for Name: galaxy; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.galaxy VALUES (1, NULL, 'andromeda', NULL, NULL);
-INSERT INTO public.galaxy VALUES (2, NULL, 'milky way', NULL, NULL);
-INSERT INTO public.galaxy VALUES (3, NULL, 'cigar', NULL, NULL);
-INSERT INTO public.galaxy VALUES (4, NULL, 'comet', NULL, NULL);
-INSERT INTO public.galaxy VALUES (5, NULL, 'bode', NULL, NULL);
-INSERT INTO public.galaxy VALUES (6, NULL, 'sombrero', NULL, NULL);
+INSERT INTO public.galaxy VALUES (1, NULL, 'Andromeda', NULL, NULL);
+INSERT INTO public.galaxy VALUES (2, NULL, 'Milky way', NULL, NULL);
+INSERT INTO public.galaxy VALUES (3, NULL, 'Cigar', NULL, NULL);
+INSERT INTO public.galaxy VALUES (4, NULL, 'Comet', NULL, NULL);
+INSERT INTO public.galaxy VALUES (5, NULL, 'Bode', NULL, NULL);
+INSERT INTO public.galaxy VALUES (6, NULL, 'Sombrero', NULL, NULL);
 
 
 --
